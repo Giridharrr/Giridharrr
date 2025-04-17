@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Giridharrr
-- 👀 I’m interested in Networking
+- 👀 I’m interested in Networking and Security
 - 🌱 I’m currently learning Network automation using python
-- 💞️ I’m looking to collaborate on Network automation projects
+- 💞️ I’m looking to collaborate on automation in Network and Security projects
 - 📫 How to reach me giridhar.rajaram@outlook.com
 
 <!---
